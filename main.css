@@ -1,5 +1,5 @@
 html {
-  font-size: 60%; }
+  font-size: 65%; }
 
 body {
     -webkit-animation-delay: 0.1s;
@@ -10,7 +10,7 @@ body {
     font-size: 1.6em; /* currently ems cause chrome bug misinterpreting rems on body element */
     line-height: 1.7;
     font-weight: 400;
-    font-family: "Noto Sans", sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
     color: #222; 
 }
 
