@@ -245,6 +245,6 @@ table ol {
 
 code, kbd, pre, samp {
     font-family: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-    font-size:0.8em;
-    font-weight:200;
+    font-size:0.85em;
+    font-weight:100;
 }
